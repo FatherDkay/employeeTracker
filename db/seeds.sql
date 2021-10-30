@@ -7,7 +7,7 @@ VALUES
   ('Information Technology');
 
 INSERT INTO role
-(title, salary, department)
+(title, salary, department_id)
 VALUES
 ('Managing Director', 110000,1),
 ('Director',90000,1),
@@ -34,18 +34,18 @@ VALUES
 ('Lindsey','Baird',5,4),
 ('Kyara','Sandaval',6,4),
 ('Olivia','Villasenior',7,3),
-('Vincent', 'Nguyen',7,3),
+('Vincent','Nguyen',7,3),
 ('Roger','Buena',7,3),
 ('Jessica','Richmand',7,3),
-('George',"Smith",8,7),
-('Veronica','Douglas',8,8)
-('Cullen','Gentris',8,9),
-('Patrick','Belong',8,10),
-('Tony','Alverez'9,3),
-('Rosemary', 'Laree',9,3),
+('George','Smith',8,3),
+('Veronica','Douglas',8,3),
+('Cullen','Gentris',8,3),
+('Patrick','Belong',8,3),
+('Tony','Alverez',9,3),
+('Rosemary','Laree',9,3),
 ('Cynthia','Gilbert',9,3),
 ('Lorrane','Robertson',9,3),
-('Steven', 'Douglas',9,3),
+('Steven','Douglas',9,3),
 ('Frank','Badillo',10,2),
-('Brad', 'Masterson',13,2);
+('Brad','Masterson',13,2);
 
