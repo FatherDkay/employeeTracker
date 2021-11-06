@@ -35,4 +35,4 @@ paul.d.bailey@hotmail.com
 ![ScreenShot](/assets/EmployeeTrackerScreenShot.jpg "Screen Shot of Employee Tracker")
 
 ## Video
-https://drive.google.com/file/d/11UFXMedNR5GNwYkOE5Vshi3uurcTwdUN/viewno
+https://drive.google.com/file/d/11UFXMedNR5GNwYkOE5Vshi3uurcTwdUN/view?usp=sharing
