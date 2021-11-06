@@ -7,7 +7,7 @@ const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   database: 'employeeTracker_db',
-  password: 'MyWifeLoves2Fuck'
+  password: 'WOULDNTYOULIKETOKNOW'
 });
 
 //Begin Menu Functions
