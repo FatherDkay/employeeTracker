@@ -36,16 +36,9 @@ VALUES
 ('Olivia','Villasenior',7,3),
 ('Vincent','Nguyen',7,3),
 ('Roger','Buena',7,3),
-('Jessica','Richmand',7,3),
-('George','Smith',8,3),
 ('Veronica','Douglas',8,3),
 ('Cullen','Gentris',8,3),
 ('Patrick','Belong',8,3),
 ('Tony','Alverez',9,3),
-('Rosemary','Laree',9,3),
 ('Cynthia','Gilbert',9,3),
-('Lorrane','Robertson',9,3),
-('Steven','Douglas',9,3),
-('Frank','Badillo',10,2),
-('Brad','Masterson',13,2);
-
+('Frank','Badillo',10,2);

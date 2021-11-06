@@ -1,6 +1,6 @@
-DROP TABLE IF EXISTS employee;
-DROP TABLE IF EXISTS role;
-DROP TABLE IF EXISTS department;
+DROP TABLE employee;
+DROP TABLE role;
+DROP TABLE department;
 CREATE DATABASE employeeTracker_db;
 
 USE employeeTracker_db;
@@ -18,6 +18,7 @@ CREATE TABLE role(
     CONSTRAINT fk_department
     FOREIGN KEY (department_id) 
         REFERENCES department(id)
+        ON DELETE SET NULL
 );
 
 CREATE TABLE employee(
@@ -27,9 +28,11 @@ CREATE TABLE employee(
   role_id INT,
   CONSTRAINT fk_role
   FOREIGN KEY (role_id) 
-      REFERENCES role(id),
+      REFERENCES role(id)
+      ON DELETE SET NULL,
   manager_id INT,
   CONSTRAINT fk_employee
   FOREIGN KEY (manager_id) 
       REFERENCES employee(id)
+      ON DELETE SET NULL
 );
