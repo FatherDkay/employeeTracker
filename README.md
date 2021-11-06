@@ -32,7 +32,7 @@ https://www.github.com/FatherDkay
 paul.d.bailey@hotmail.com
 
 ## Screenshot
-![ScreenShot](/public/assets/EmployeeTrackerScreenShot.jpg "Screen Shot of Employee Tracker")
+![ScreenShot](/assets/EmployeeTrackerScreenShot.jpg "Screen Shot of Employee Tracker")
 
 ## Video
 https://drive.google.com/file/d/11UFXMedNR5GNwYkOE5Vshi3uurcTwdUN/viewno
